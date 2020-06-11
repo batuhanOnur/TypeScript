@@ -58,3 +58,24 @@ age = true;
 
 
 // end of dynamic types
+
+
+// FUNCTIONS BASICS
+// let greet: Function;
+
+// greet = () => {
+//     console.log('hello world');
+// }
+
+// const add = (a: number, b: number, c?: string) => {
+
+//     console.log(a + b);
+// }
+
+// add(5, 10);
+
+
+
+//end of functions
+
+
